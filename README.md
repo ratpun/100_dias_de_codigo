@@ -1,4 +1,4 @@
-Desafio 100 dias de código
+Desafio 100 dias de código da Codi Academy
 
 🗂️Dia 1: 4/9/2024
 
